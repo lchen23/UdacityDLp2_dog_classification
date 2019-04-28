@@ -1,2 +1,2 @@
 # UdacityDLp2_dog_classification
-This project uses CNN to classify dog pictures 
+This project trains convolutional neural networks to classify dog pictures 
